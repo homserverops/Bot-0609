@@ -5,5 +5,8 @@ public class Startup extends Script{
 @Override
     public void onStart(){
 }
+public void onExit(){
+        // exit 
+}
 
 }
